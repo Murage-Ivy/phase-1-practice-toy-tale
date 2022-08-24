@@ -47,6 +47,36 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://s7.orientaltrading.com/is/image/OrientalTrading/13944972?$PDP_VIEWER_IMAGE$",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Mrs. Potato Head",
+      "image": "https://comicvine.gamespot.com/a/uploads/scale_small/11/111746/5198855-mr-and-mrs-potato-head-620x350.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Forky",
+      "image": "https://i5.walmartimages.com/asr/819f86e6-447c-4fe1-8c73-43af04c1f2b3_1.76788b3219d13e58ca3a1ff1eb69196b.jpeg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Mr Spell",
+      "image": "https://i.pinimg.com/originals/e3/8a/40/e38a400358aba4375dbc5539b59af47c.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Wheezy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREFFpdNkQ7JzQiGSRzqvBdNyJikFth-FNP9yPpi9Mug_SZhlAW3zDr1TABvZ1a1E6Rd0Y&usqp=CAU",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
